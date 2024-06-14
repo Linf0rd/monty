@@ -1,5 +1,5 @@
 
-# Monty 🏰
+# Monty (0x19. C - Stacks, Queues - LIFO, FIFO) 🏰
 
 Welcome to the Monty project! This repository contains a simple bytecode interpreter for Monty ByteCodes files. Monty 0.98 is a scripting language that is first compiled into byte codes (just like Python). It relies on a specific stack-based virtual machine.
 
@@ -189,7 +189,7 @@ This project implements a bytecode interpreter for Monty ByteCodes files. The in
 -   **GCC:**  Ensure you have the GCC compiler installed. You can install it using:
         
     `sudo apt update`
-    
+
     `sudo apt install build-essential` 
     
 
